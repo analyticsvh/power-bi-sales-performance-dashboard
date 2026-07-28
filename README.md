@@ -38,16 +38,26 @@ The dashboard contains the following KPIs:
 - Discount band distribution
 - Interactive filtering by product and segment
 
+  ## Skills Demonstrated
+
+- Data cleaning using Power Query
+- Data modelling in Power BI
+- Creating DAX measures
+- KPI design and reporting
+- Interactive dashboard development
+- Business data visualisation
+- Sales performance analysis
+
 ## Dataset
 
-The dataset contains 700 sales records.
+This project uses the **Microsoft Financial Sample dataset** provided with Power BI Desktop for learning and demonstration purposes.
 
-Main columns include:
+The dataset contains sales transactions with information about:
 
 - Date
-- Segment
-- Country
 - Product
+- Country
+- Customer Segment
 - Discount Band
 - Units Sold
 - Gross Sales
@@ -74,3 +84,15 @@ Example measures used in the project:
 ```DAX
 Total Gross Sales =
 SUM(financials[Gross Sales])
+
+## Business Insights
+
+The dashboard helps identify:
+
+- Best-performing products by gross sales.
+- Most profitable customer segments.
+- Strongest sales markets by country.
+- Monthly trends in gross sales and profitability.
+- Impact of discount bands on overall sales performance.
+
+These insights can support business decisions related to pricing, sales strategy and market performance.
