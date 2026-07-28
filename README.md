@@ -6,7 +6,7 @@ This project presents an interactive Power BI dashboard designed to analyse sale
 
 The dashboard provides executives and sales managers with a clear overview of gross sales, profit, units sold and profitability trends.
 
-![Dashboard Overview](images/dashboard-overview.png)
+![Dashboard Overview](dashboard-overview.png)
 
 ## Business Objectives
 
